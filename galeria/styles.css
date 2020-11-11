@@ -31,14 +31,14 @@ h3 {
     flex-direction: row;
 }
 
-.vector {}
+.vector {margin-left: 39%; }
 
 .dos {
     display: flex;
     flex-direction: row;
 }
 
-.decor{}
+.decor{margin-left: 39%;}
 
 .tres {
     display: flex;
