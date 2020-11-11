@@ -23,9 +23,7 @@ h3 {
     
 .Contenedor {
     display: flex; 
-    flex-direction: column
-    width: 20%;
-    height: 20%;
+    flex-direction: column;
 }
 
 .uno {
@@ -49,11 +47,11 @@ h3 {
 
 .uuno {}
 
-#uuno1 {}
+#uuno1 {flex: 1}
 
-#uuno2 {}
+#uuno2 {flex: 1}
 
-#uuno3 {}
+#uuno3 {flex: 1}
 
 
 img {
